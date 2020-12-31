@@ -8,4 +8,4 @@ Some coding practices incorporated:
 - Writing code right after the closing bracket
 - Using spaces between operators and operands
 - Using appropriate annotations
-- Using camel case for method names and parameters and pascal case for class names
+- Using camel case (camelCase) for method names, parameters, and fields and pascal case (PascalCase) for class names
