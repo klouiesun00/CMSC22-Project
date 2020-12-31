@@ -6,6 +6,6 @@ This project makes to-do lists according to 3 categories: Academics, Chores, and
 Some coding practices incorporated:
 - Always using brackets even if not required
 - Writing code right after the closing bracket
-- using spaces between operators and operands
+- Using spaces between operators and operands
 - Using appropriate annotations
 - Using camel case for method names and parameters and pascal case for class names
